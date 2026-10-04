@@ -1,0 +1,19 @@
+ @{
+            var product = ViewBag.detail as ProductDto;
+        }
+ 
+        <h2>Product Details</h2>
+ 
+        <table border="1">
+            @foreach (var p in ViewBag.products)
+            {
+                <tr>
+                    <td><strong>@p.Id</strong></td>
+                    <td>@p.Name</td>
+                    <td>$@p.Price</td>
+                    <td>@p.description</td>
+                    <td><img src="@p.image_url" width="100" /></td>
+                    <td>@p.category_id</td>
+                </tr>
+            }
+        </table>

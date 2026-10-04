@@ -1,0 +1,47 @@
+@{
+    Layout = null;  //do not include header & fotter in shared folder (Shared/Layout.cshtml)
+}
+<html>
+    <head>
+        <title>Product list page</title>
+    </head>
+ 
+    <body>
+        @* <div>Product lists:</div>
+        <ul>
+            <li>PC</li>
+            <li>Mouse</li>
+            <li>Keyboard</li>
+        </ul> *@
+ 
+        <select>
+            @foreach (var cat in ViewBag.categories)
+            {
+                <option>
+                    @cat
+                </option>
+            }
+        </select><br/><br/><br/>
+        
+ 
+        <table border="1">
+            @foreach (var p in ViewBag.products)
+            {
+                <tr>
+                    <td><strong>@p.Name</strong></td>
+                    <td>$@p.Price</td>
+                    <td>@p.description</td>
+                    <td><img src="@p.image_url" width="100" /></td>
+                </tr>
+            }
+        </table>
+        
+        @foreach (var cat in ViewBag.categories)
+            {
+                
+            <input type="radio" id="html" name="fav_language" value="HTML">
+            <label for="html">@cat</label><br>
+            }
+        
+    </body>
+</html>

@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = csmvc
+build_property.RootNamespace = csmvc
+build_property.ProjectDir = D:\Myprojectcs\csmvc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Myprojectcs\csmvc
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblw0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/blank.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxibGFuay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/button.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxidXR0b24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/chart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxjaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/element.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxlbGVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxmb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxzaWduaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblxzaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblx0YWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblx0eXBvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/dashmin/widget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGFzaG1pblx3aWRnZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/Home/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/blog-details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcYmxvZy1kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcYmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcY2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcY29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcbWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/shop-details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcc2hvcC1kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/shop-grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcc2hvcC1ncmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/ogani/shoping-cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb2dhbmlcc2hvcGluZy1jYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/products/detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdHNcZGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/products/ExternalList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdHNcRXh0ZXJuYWxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/products/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdHNcbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/Product/detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxkZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Myprojectcs/csmvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j0l7g38wrq
